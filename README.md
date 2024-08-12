@@ -10,7 +10,7 @@
 
 ## Overview
 
-This project focuses on developing a solution called **ClarityBoost** that merges distorted images into a single high-quality output using native Python libraries. By applying advanced image processing techniques and optimizing fusion algorithms, the project successfully achieved an 85% improvement in visual clarity and detail.
+This project focuses on developing a solution called **ClarityBoost** that merges distorted images into a single high-quality output using native Python libraries. By applying advanced image processing techniques and optimizing fusion algorithms, the project successfully achieved an 83% improvement in visual clarity and detail.
 
 ## Key Contributions
 
