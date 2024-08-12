@@ -1,4 +1,4 @@
-# ClarityBoost: Image Fusion Enhancement
+# ClarityBoost
 
 ## Table of Contents
 
@@ -36,5 +36,5 @@ This project focuses on developing a solution called **ClarityBoost** that merge
 ## Results
 
 - **High-Quality Image Output:** Successfully developed a solution that significantly enhances image quality by merging multiple distorted images.
-- **Improved Resolution and Clarity:** Achieved an 85% improvement in visual clarity through advanced image processing techniques and optimized algorithms.
+- **Improved Resolution and Clarity:** Achieved an 83% improvement in visual clarity through advanced image processing techniques and optimized algorithms.
 - **Reduced Distortion:** Effectively minimized distortion in the final image output, resulting in a clearer and more detailed image.
